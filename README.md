@@ -86,8 +86,8 @@ Todos los proyectos privados se encuentran alojados en repositorios separados co
 
 Para consultas, solicitudes de acceso o más información sobre cualquier proyecto:
 
-- **Email**: [Agregar dirección de contacto]
-- **LinkedIn**: [Agregar perfil si aplica]
+- **Email**: alexander53h@hotmail.com
+- **LinkedIn**: https://www.linkedin.com/in/alexander-medina-684606251
 - **GitHub**: [@Alexmedina-Dev](https://github.com/Alexmedina-Dev)
 
 ---
