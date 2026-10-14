@@ -2,7 +2,7 @@
 
 > Tutorial educativo para aprender a construir páginas web profesionales usando **Claude AI** y **Visual Studio Code**, dirigido a principiantes y estudiantes del SENA.
 
-🔗 **Ver tutorial en línea:** `https://alexpruebag25.github.io/tutorial-web-ia/`
+🔗 **Ver tutorial en línea:** https://tutorial-web-ia.vercel.app/
 
 ---
 
