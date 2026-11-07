@@ -1,6 +1,8 @@
-# Portafolio de Proyectos
-
-Bienvenido al repositorio central de documentación y presentación de mis proyectos. Este espacio sirve como índice público y recurso de referencia para explorar una visión general de mis iniciativas, tanto personales como profesionales, manteniendo la integridad y seguridad del código fuente.
+<div align="center">
+  <img width="100%" alt="Alex Medina — function.learning('active');" src="assets/banner.png" />
+  <h1>Portafolio de Proyectos</h1>
+  <p><strong>Índice público de documentación — sin código fuente, por seguridad.</strong></p>
+</div>
 
 ## Propósito
 
